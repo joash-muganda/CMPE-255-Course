@@ -29,7 +29,7 @@ Venturing into the captivating chronicles of the Olympics, this project harnesse
 - In the medal tally, Track & Field, Gymnastics, and Swimming often lead the parade.
 
 ## Dive Deeper:
-Crave more granularity? Our [Colab notebook](#) offers a riveting journey from data to insights. (Kindly replace `#` with the actual notebook link.)
+Crave more granularity? My [Colab notebook](https://colab.research.google.com/drive/1VCBL2tVe0BoJwP6S3jFtjRloZMYu_SjA?usp=sharing) offers a riveting journey from data to insights. 
 
 ## Collaboration & Feedback:
 An amalgamation of sports fervor and data science craftsmanship, this project seeks to influence athletic strategies and foster informed sponsorship choices. Your insights, queries, or collaborative zest are eagerly awaited.
