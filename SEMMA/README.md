@@ -3,8 +3,6 @@
 ## Overview:
 Venturing into the captivating chronicles of the Olympics, this project harnesses machine learning to anticipate medalists. Through the lens of data from myriad Olympic events, we unveiled patterns and key factors potentially steering an athlete toward medal triumph.
 
-![Project Banner or Logo](path_to_image)
-
 ## Dataset:
 - **Attributes**: Our dataset paints a picture with features like Age, Height, Weight, Nationality, specific Olympic event, and Medal attainment.
 - **Magnitude**: With over 270,000 entries, our dataset is a testament to multiple Olympic epochs.
