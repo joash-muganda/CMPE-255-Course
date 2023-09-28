@@ -22,7 +22,7 @@ Venturing into the captivating chronicles of the Olympics, this project harnesse
    - **Random Forest**: 86.23%
    - **Gradient Boosting**: 86.16%
 
-![Bar Chart of Model Accuracies]([path_to_accuracy_barchart_image](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/SEMMA/SEMMA_Artifacts/intial_and_tuned_model_accuracies.png))
+![Bar Chart of Model Accuracies]([path_to_accuracy_barchart_image]()
 
 ## Key Revelations:
 - The prime age window for Olympic glory seems to be 20-30.
