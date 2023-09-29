@@ -14,7 +14,7 @@ Venturing into the captivating chronicles of the Olympics, this project harnesse
 
 - **Data Enlightenment Phase**: Revelations included age demographics of Olympians and the pedestal prominence of certain sports.
 
-![Bar Chart of Medal Distribution Across Sports](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/SEMMA/SEMMA_Artifacts/distribution_across%20sports.png)
+![Bar Chart of Medal Distribution Across Sports]([https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/SEMMA/SEMMA_Artifacts/distribution_across%20sports.png](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/SEMMA/SEMMA_Artifacts/distribution_across%20sports.png))
 
 - **Modeling & Assessment**: Four contenders — Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting — were put to the test. Their prowess post fine-tuning:
    - **Logistic Regression**: 87.31%
