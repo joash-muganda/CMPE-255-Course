@@ -1,7 +1,7 @@
 # Predictive Modeling for Heart Disease Diagnosis Using Machine Learning Techniques
 
 ## Overview
-![Overview Image: Pie Chart of Class Distribution](path_to_your_image/pie_chart_class_distribution.png)
+![Overview Image: Pie Chart of Class Distribution]([path_to_your_image/pie_chart_class_distribution.png](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/CRISP-DM/CRISP_DM_artifacts/class_distribution.png))
 This repository contains a comprehensive exploration and analysis aiming to predict the occurrence of heart disease using various machine learning techniques. The study harnesses the potential of multiple algorithms to enhance early diagnosis and intervention.
 
 ## Table of Contents
