@@ -7,7 +7,7 @@ Venturing into the captivating chronicles of the Olympics, this project harnesse
 - **Attributes**: Our dataset paints a picture with features like Age, Height, Weight, Nationality, specific Olympic event, and Medal attainment.
 - **Magnitude**: With over 270,000 entries, our dataset is a testament to multiple Olympic epochs.
 
-![Histogram of Age Distribution](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/SEMMA/SEMMA_Artifacts/age_distribution.png)
+![Histogram of Age Distribution](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/SEMMA/SEMMA_Artifacts/age_distribution.png)
 
 ## Methodology:
 - **Data Dive & Refinement**: The expedition began with an intricate dissection of the dataset's anatomy. This phase was accentuated by addressing data voids and morphing the medal feature into a binary testament of victory or otherwise.
