@@ -34,12 +34,12 @@ The initial data underwent several preprocessing steps including handling missin
 A thorough EDA was performed to understand the data's underlying patterns and distributions. Visualizations such as histograms, bar plots, and correlation heatmaps provided insights into potential relationships between features.
 
 ![Histogram: Age Distribution](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/CRISP-DM/CRISP_DM_artifacts/age_histogram.png)
-![Correlation Heatmap](path_to_your_image/correlation_heatmap.png)
+![Correlation Heatmap]([path_to_your_image/correlation_heatmap.png](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/CRISP-DM/CRISP_DM_artifacts/correlation_heatmap.png))
 
 ### Modeling and Evaluation
 Several machine learning algorithms were trained and evaluated. Hyperparameter tuning was performed to optimize each model's performance.
 
-![Model Evaluation Image: Accuracy Comparison Bar Chart](path_to_your_image/accuracy_comparison.png)
+![Model Evaluation Image: Accuracy Comparison Bar Chart](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/CRISP-DM/CRISP_DM_artifacts/Model_evaluation_accuracy%20Comparizon.png)
 
 ## Discussion
 Our results underscore the significance of hyperparameter tuning in achieving optimal model performance. The post-tuning evaluations revealed the Neural Network model as the top-performing algorithm.
@@ -50,7 +50,7 @@ Machine learning offers promising capabilities in the realm of medical diagnosis
 ## Visualizations
 Various visualizations were utilized during the EDA phase to understand the data and during the modeling phase to evaluate model performances. Visualizations include but are not limited to histograms, bar plots, and heatmaps.
 
-![Scatter Plot: Age vs. Maximum Heart Rate](path_to_your_image/scatter_plot_age_vs_max_heart_rate.png)
+![Scatter Plot: Age vs. Maximum Heart Rate](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/CRISP-DM/CRISP_DM_artifacts/age_vs_thalach.png)
 
 ## References
 - World Health Organization (2021). Cardiovascular diseases (CVDs).
