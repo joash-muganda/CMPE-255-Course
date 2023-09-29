@@ -21,7 +21,8 @@ This repository contains a comprehensive exploration and analysis aiming to pred
 Heart disease remains a significant health concern worldwide. Early detection and diagnosis play a pivotal role in ensuring timely and efficient treatments. With the aid of machine learning, we aim to improve this early detection process.
 
 ## Dataset
-![Sample Data Image: Bar Plot of Gender Distribution](path_to_your_image/bar_plot_gender_distribution.png)
+![Sample Data Image: Bar Plot of Gender Distribution](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/CRISP-DM/CRISP_DM_artifacts/Gender_distribution.png)
+
 The dataset, titled "Heart Disease Cleveland UCI," was sourced from Kaggle. It comprises various medical indicators potentially influencing heart disease presence.
 
 ## Methods
