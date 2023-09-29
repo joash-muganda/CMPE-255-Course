@@ -64,6 +64,6 @@ Various visualizations were utilized during the EDA phase to understand the data
 ---
 
 Contributors:
-- [Your Name]
+- Joash Muganda
 - ChatGPT
 
