@@ -2,7 +2,7 @@
 
 In this repository, we delve into an exploration of the Corruption Perception Index (CPI) using the Knowledge Discovery in Databases (KDD) process. Our goal is to uncover global and temporal patterns in corruption perceptions and their implications.
 
-![CPI Map Visualization](path_to_your_map_visualization_image.png) 
+![CPI Map Visualization](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/KDD/KDD_artifacts/cpi_clusters.png) 
 <!-- Replace 'path_to_your_map_visualization_image.png' with the path to your visualization image -->
 
 ## Table of Contents
