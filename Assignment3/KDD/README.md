@@ -18,7 +18,7 @@ In this repository, we delve into an exploration of the Corruption Perception In
 The Corruption Perception Index (CPI) is an annual ranking of countries based on the perceived level of public sector corruption. Our analysis goes beyond the ranking to discern patterns, trends, and clusters related to corruption perception.
 
 ## Data
-The dataset comprises CPI scores for various countries spanning several years. You can view the dataset [here](path_to_dataset.csv). <!-- Replace 'path_to_dataset.csv' with the path to your dataset -->
+The dataset comprises CPI scores for various countries spanning several years. You can view the dataset [here](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Assignment3/KDD/history.csv). <!-- Replace 'path_to_dataset.csv' with the path to your dataset -->
 
 ## Methodology
 We employed the five-stage KDD process:
