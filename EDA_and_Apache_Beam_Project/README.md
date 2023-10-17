@@ -4,7 +4,7 @@ This repository contains a series of assignments focusing on different aspects o
 
 ## Table of Contents
 1. [EDA with D3.js in Colab](#eda-with-d3js-in-colab)
-2. [Auto EDA with Your Favorite Tool](#auto-eda-with-Sweetviz)
+2. [Auto EDA with Sweetviz](#auto-eda-with-Sweetviz)
 3. [Apache Beam in Colab](#apache-beam-in-colab)
 
 ---
