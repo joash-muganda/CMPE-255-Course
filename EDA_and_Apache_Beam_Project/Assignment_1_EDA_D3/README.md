@@ -2,7 +2,7 @@
 
 This repository contains an in-depth Exploratory Data Analysis (EDA) of the World Happiness Report 2023 dataset sourced from Kaggle. The analysis delves into understanding the factors contributing to happiness scores across various countries and provides visual insights into global happiness trends.
 
-![World Happiness Map](path_to_image/world_happiness_map.png)
+![World Happiness Map](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/EDA_and_Apache_Beam_Project/Assignment_1_EDA_D3/world_happiness_scores_2023.png)
 
 > **Note**: Replace `path_to_image/world_happiness_map.png` with the actual path to your world map visualization.
 
