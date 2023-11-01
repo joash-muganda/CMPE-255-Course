@@ -22,7 +22,6 @@ This repository contains an exploration of the Fashion MNIST dataset. We utilize
 
 The Fashion MNIST dataset comprises 60,000 training and 10,000 test images, each of size 28x28 pixels, representing 10 different clothing classes.
 
-🔗 [Insert link to dataset source or visualization]
 
 ## 🔄 Workflow
 
