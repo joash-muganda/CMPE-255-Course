@@ -18,14 +18,6 @@
 
 This repository contains an exploration of the Fashion MNIST dataset. We utilize advanced machine learning techniques, including AutoML, and leverage the insights provided by OpenAI's GPT-4 model.
 
-## 🚀 Installation
-
-```bash
-git clone https://github.com/your_username/your_repo_name.git
-cd your_repo_name
-pip install -r requirements.txt
-> **Note**: Replace `your_username` and `your_repo_name` with your GitHub username and repository name, respectively.
-
 ## 📂 Dataset
 
 The Fashion MNIST dataset comprises 60,000 training and 10,000 test images, each of size 28x28 pixels, representing 10 different clothing classes.
