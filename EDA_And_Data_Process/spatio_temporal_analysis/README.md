@@ -2,8 +2,6 @@
 
 This repository contains a comprehensive data-driven analysis of federal emergencies and disasters in the United States. The analysis delves into patterns, trends, and the federal response system's efficiency to these events.
 
-![Banner Image](path_to_your_banner_image.jpg)  <!-- Replace 'path_to_your_banner_image.jpg' with the actual path to your banner image -->
-
 ## Table of Contents
 
 - [Background](#background)
