@@ -1,13 +1,13 @@
 # UCF50 Video Action Recognition Analysis
 
-An end-to-end deep dive into the UCF50 video action recognition dataset. This project showcases preprocessing, feature extraction, clustering, anomaly detection, and model building using various techniques and tools.
+An end-to-end deep dive into the UCF50 video action recognition dataset. This project showcases preprocessing, feature extraction, clustering, anomaly detection, and model building using various techniques and tools, including AutoML.
 
 ## Table of Contents
 - [Dataset Overview](#dataset-overview)
 - [Preprocessing Steps](#preprocessing-steps)
 - [Clustering and Visualization](#clustering-and-visualization)
 - [Anomaly Detection](#anomaly-detection)
-- [Model Building](#model-building)
+- [Model Building with AutoML](#model-building-with-automl)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -29,8 +29,8 @@ KMeans clustering was applied to group similar video actions. A t-SNE visualizat
 ## Anomaly Detection
 Isolation Forest was used to identify potential outlier videos that don't conform to typical action patterns.
 
-## Model Building
-Random Forest was trained on the extracted features to categorize videos into one of the 50 action categories.
+## Model Building with AutoML
+Random Forest was initially trained on the extracted features to categorize videos into one of the 50 action categories. Additionally, H2O's AutoML was utilized to automatically train and tune a variety of machine learning models, providing a robust approach to action categorization.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
