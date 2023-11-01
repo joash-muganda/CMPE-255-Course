@@ -2,8 +2,6 @@
 
 This repository showcases the combination of human intuition and automated tools, such as ChatGPT-4 and H2O's AutoML, for a comprehensive data science workflow. The study focuses on the Smoking dataset.
 
-![Cover Image](path_to_cover_image.jpg)  <!-- You can replace this with the actual path to any cover image you want to use. -->
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
