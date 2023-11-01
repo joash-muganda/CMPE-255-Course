@@ -6,7 +6,7 @@ The primary goal of this study is to conduct an in-depth Exploratory Data Analys
 ## Datasets Studied
 
 1. **Tabular**: UK Smoking Dataset
-2. **Timeseries**: UK Smoking Dataset
+2. **Timeseries**: GDP Per Capita
 3. **Spatio-temporal**: [To be filled after analysis]
 4. **Image**: Fashion MNIST
 5. **Audio**: Cats vs. Dogs Sound Classification
