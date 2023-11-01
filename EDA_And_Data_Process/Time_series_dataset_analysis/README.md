@@ -28,9 +28,7 @@ This repository contains a comprehensive analysis of the historical GDP per capi
 - scikit-learn
 - TPOT
 
-## 📖 Medium Article
 
-For a detailed walkthrough of the analyses and insights, check out the accompanying [Medium article](link_to_medium_article).
 
 ## 🙏 Acknowledgments
 
