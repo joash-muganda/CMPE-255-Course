@@ -18,7 +18,7 @@ Our work focuses on the innovative approach of BPO in AI, a method that holds gr
 
 ## Visualization
 
-![Black-Box Concept](<insert image link>)  
+![Black-Box Concept](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Short_story_Presentation/black_box_image.png)  
 *An illustrative image of the Black-Box concept in AI.*
 
 ## Contributing
