@@ -27,7 +27,7 @@ We welcome contributions and discussions related to this research. Feel free to 
 
 ## License
 
-<Specify the license if applicable, e.g., MIT, GPL, etc.>
+ MIT
 
 ## Contact
 
