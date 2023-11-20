@@ -14,7 +14,8 @@ Our work focuses on the innovative approach of BPO in AI, a method that holds gr
 
 - **YouTube Presentation**: Watch our presentation on this topic for a more visual and interactive explanation. [Watch the video here](<insert YouTube link>).
 
-**PowerPoint Presentation**: For a quick visual summary, view our PowerPoint presentation. [Access the presentation here]([<insert PowerPoint link>](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Short_story_Presentation/Black-Box%20Prompt%20Optimization_PPT.pptx)).
+- **PowerPoint Presentation**: For a quick visual summary, view our PowerPoint presentation. [Access the presentation here](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Short_story_Presentation/Black-Box%20Prompt%20Optimization_PPT.pptx).
+
 ## Visualization
 
 ![Black-Box Concept](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Short_story_Presentation/black_box_image.png)  
