@@ -30,7 +30,7 @@ This repository serves as a collective resource for understanding and implementi
   - [Heart Disease dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
   - [Clean data](https://www.kaggle.com/datasets/rizwan777/cleandata)
 - **Highlights:** Comparative visualizations, effectiveness evaluation
-- **Visualization:** [Comparative Visuals](link-to-comparative-visualization)
+- **Visualization:** [Comparative Visuals](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/tree/main/Dimensionality_reduction_assignment/artifacts)
 
 ## General Information
 
