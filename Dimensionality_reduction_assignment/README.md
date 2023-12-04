@@ -6,9 +6,10 @@ This repository serves as a collective resource for understanding and implementi
 
 ### 1. Dimensionality Reduction in Databricks
 - **Notebooks:** 
-  - [`Dimensionality_reduction_in_Databricks (1).ipynb`](link-to-databricks-notebook)
+  - [`PCA_Databricks.ipynb`](link-to-PCA-notebook)
+  - [`t-SNE_Databricks.ipynb`](link-to-t-SNE-notebook)
 - **Techniques:** Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE)
-- **Visualization:** [https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Dimensionality_reduction_assignment/artifacts/t-SNE_databricks.png](link-to-visualization)
+- **Visualization:** [Scatter plots visual](link-to-visualization)
 - **Interactive Notebook:** [Databricks Dimensionality Reduction Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4892408861297746/1055676025481244/6128243937076302/latest.html)
 
 ### 2. UMAP Demonstration for Clustering and Classification
@@ -36,7 +37,7 @@ This repository serves as a collective resource for understanding and implementi
 - **Usage:** Clone the repository, import/open the notebooks in Databricks or Google Colab, and run the cells.
 - **Contributions:** Contributions are welcome. Fork the repository, make changes, and submit a pull request.
 - **License:** MIT License.
-- **Contact:** [Your Name](mailto:your.email@example.com).
+- **Contact:** [Joash Muganda](mailto:your.email@example.com).
 
 ## Acknowledgements
 
