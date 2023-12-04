@@ -16,14 +16,21 @@ This repository serves as a collective resource for understanding and implementi
 ### 2. UMAP Demonstration for Clustering and Classification
 - **Notebook:** [`UMAP_Clustering_Classification.ipynb`](link-to-UMAP-notebook)
 - **Techniques:** UMAP for clustering (K-Means) and classification (Random Forest)
-- **Dataset:** [Wine quality dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+- **Dataset:** [Wine quality dataset](https://www.kaggle.com/datasets/stephanierodriguezz/wineqt)
 - **Platform:** Google Colab
 - **Visualization:** [UMAP Visuals](link-to-UMAP-visualization)
 
 ### 3. Dimensionality Reduction Techniques: A Unified Approach
 - **Notebook:** [`Dimensionality_Reduction_Colab.ipynb`](link-to-Unified-Approach-notebook)
 - **Techniques:** PCA, SVD, MDS, ISOMap, LLE, UMAP, t-SNE
-- **Datasets:** [Iris dataset](link-to-Iris-dataset), [NLP dataset](link-to-NLP-dataset)
+- **Datasets:** 
+  - [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset)
+  - [Movie Lens dataset](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset)
+  - [Animal Zoo dataset](https://www.kaggle.com/datasets/sweedendataset/dataset-classification-animal-zoo)
+  - [Chinese MNIST dataset](https://www.kaggle.com/datasets/gpreda/chinese-mnist/discussion/244823)
+  - [Spotify dataset](https://www.kaggle.com/datasets/geomack/spotifyclassification)
+  - [Heart Disease dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
+  - [Clean data](https://www.kaggle.com/datasets/rizwan777/cleandata)
 - **Highlights:** Comparative visualizations, effectiveness evaluation
 - **Visualization:** [Comparative Visuals](link-to-comparative-visualization)
 
@@ -32,13 +39,12 @@ This repository serves as a collective resource for understanding and implementi
 - **Usage:** Clone the repository, import/open the notebooks in Databricks or Google Colab, and run the cells.
 - **Contributions:** Contributions are welcome. Fork the repository, make changes, and submit a pull request.
 - **License:** MIT License.
-- **Contact:** [Joash Muganda](mailto:your.email@example.com).
+- **Contact:** [Your Name](mailto:your.email@example.com).
 
 ## Acknowledgements
 
 - Databricks Community Edition for the platform and datasets.
-- Kaggle for datasets.
-
+- Kaggle for providing various datasets.
 
 ## Conclusion
 
