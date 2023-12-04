@@ -32,13 +32,13 @@ This repository serves as a collective resource for understanding and implementi
 - **Usage:** Clone the repository, import/open the notebooks in Databricks or Google Colab, and run the cells.
 - **Contributions:** Contributions are welcome. Fork the repository, make changes, and submit a pull request.
 - **License:** MIT License.
-- **Contact:** [Your Name](mailto:your.email@example.com).
+- **Contact:** [Joash Muganda](mailto:your.email@example.com).
 
 ## Acknowledgements
 
 - Databricks Community Edition for the platform and datasets.
-- Kaggle for the wine quality dataset.
-- UMAP-learn Python package for the UMAP algorithm.
+- Kaggle for datasets.
+
 
 ## Conclusion
 
