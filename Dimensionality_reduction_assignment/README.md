@@ -9,6 +9,8 @@ This repository serves as a collective resource for understanding and implementi
   - [`PCA_Databricks.ipynb`](link-to-PCA-notebook)
   - [`t-SNE_Databricks.ipynb`](link-to-t-SNE-notebook)
 - **Techniques:** Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE)
+  - **Datasets:**
+  - [Clean data](https://www.kaggle.com/datasets/rizwan777/cleandata)
 - **Visualization:** [visual](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Dimensionality_reduction_assignment/artifacts/t-SNE_databricks.png)
 - **Interactive Notebook:** [Databricks Dimensionality Reduction Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4892408861297746/1055676025481244/6128243937076302/latest.html)
 
@@ -16,6 +18,8 @@ This repository serves as a collective resource for understanding and implementi
 - **Notebook:** [`UMAP_Clustering_Classification.ipynb`](link-to-UMAP-notebook)
 - **Techniques:** UMAP for clustering (K-Means) and classification (Random Forest)
 - **Platform:** Google Colab
+-  **Datasets:**
+-  [wineqt](https://www.kaggle.com/datasets/stephanierodriguezz/wineqt)
 - **Visualization:** [UMAP Visuals](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Dimensionality_reduction_assignment/UMAP%20Screenshots.pdf)
 
 ### 3. Dimensionality Reduction Techniques: A Unified Approach
