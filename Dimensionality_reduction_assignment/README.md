@@ -6,8 +6,7 @@ This repository serves as a collective resource for understanding and implementi
 
 ### 1. Dimensionality Reduction in Databricks
 - **Notebooks:** 
-  - [`PCA_Databricks.ipynb`](link-to-PCA-notebook)
-  - [`t-SNE_Databricks.ipynb`](link-to-t-SNE-notebook)
+  - [`Dimensionality_reduction_in_Databricks (1).ipynb`](link-to-databricks-notebook)
 - **Techniques:** Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE)
 - **Visualization:** [Scatter plots visual](link-to-visualization)
 - **Dataset:** [Large dataset](link-to-dataset)
