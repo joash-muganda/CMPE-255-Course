@@ -16,7 +16,7 @@ This repository serves as a collective resource for understanding and implementi
 - **Notebook:** [`UMAP_Clustering_Classification.ipynb`](link-to-UMAP-notebook)
 - **Techniques:** UMAP for clustering (K-Means) and classification (Random Forest)
 - **Platform:** Google Colab
-- **Visualization:** [UMAP Visuals](link-to-UMAP-visualization)
+- **Visualization:** [UMAP Visuals](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Dimensionality_reduction_assignment/UMAP%20Screenshots.pdf)
 
 ### 3. Dimensionality Reduction Techniques: A Unified Approach
 - **Notebook:** [`Dimensionality_Reduction_Colab.ipynb`](link-to-Unified-Approach-notebook)
