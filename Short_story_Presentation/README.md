@@ -12,7 +12,7 @@ Our work focuses on the innovative approach of BPO in AI, a method that holds gr
 
 - **Medium Article**: For a summarized overview, read our Medium article, 'Revolutionizing AI Alignment: The Power of Black-Box Prompt Optimization'. [Read the article here](https://medium.com/@joash.muganda/revolutionizing-ai-alignment-the-power-of-black-box-prompt-optimization-e558fe23b3f9).
 
-- **YouTube Presentation**: Watch our presentation on this topic for a more visual and interactive explanation. [Watch the video here](<insert YouTube link>).
+- **YouTube Presentation**: Watch our presentation on this topic for a more visual and interactive explanation. [Watch the video here](<https://drive.google.com/file/d/1WsE7pMb9teC_cgd0o_k9ZolL3_hv9zYa/view?usp=sharing>).
 
 - **PowerPoint Presentation**: For a quick visual summary, view our PowerPoint presentation. [Access the presentation here](https://github.com/joash-muganda/SJSU-FA23-CMPE-255-Data-Mining/blob/main/Short_story_Presentation/Black-Box%20Prompt%20Optimization_PPT.pptx).
 
